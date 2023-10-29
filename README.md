@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Nice to meet u and Welcome to my profile!
+
+I hope we can have a deep talk about any CS topic if u want.
+
 ### About Me
 
 I am a backend software engineer and graduated from HEU in 2018.
