@@ -23,4 +23,13 @@ I hope we can have a deep talk about any CS topic if u want.
 
 I am a backend software engineer and graduated from HEU in 2018.
 
-### My Blog
+### [My Blog](https://segmentfault.com/u/zonghay/articles)
+
+<!--START_SECTION:blog-posts-->
+-   2022-09-13 [PHP & Swoole & Hyperf(公司内部分享)](https://zhuanlan.zhihu.com/p/563983666)
+
+-   2021-03-18 [基于Redis的分布式锁算法RedLock及RedLock-Hyperf实现](https://segmentfault.com/a/1190000039663994)
+
+-   2020-06-02 [Hyperf/Crontab源码解析](https://segmentfault.com/a/1190000022814770)
+
+<!--END_SECTION:blog-posts-->
