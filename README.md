@@ -21,7 +21,9 @@ I hope we can have a deep talk about any CS topic if u want.
 
 ### About Me
 
-I am a backend software engineer and graduated from HEU in 2018.
+I'm working as a backend software engineer in Beijing now.
+And I have 5 years of coding experience since I graduated from HEU in 2018.The language I use most for coding is PHP 
+and Go, which I have used to successfully complete numbers of projects.
 
 ### [My Blog](https://segmentfault.com/u/zonghay/articles)
 
