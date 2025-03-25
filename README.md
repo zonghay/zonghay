@@ -25,7 +25,7 @@ I'm working as a backend software engineer in Beijing now.
 And I have 5 years of coding experience since I graduated from HEU in 2018.The language I use most for coding is PHP 
 and Go, which I have used to successfully complete numbers of projects.
 
-### [My Blog](https://segmentfault.com/u/zonghay/articles)
+### [My Blog](https://zonghay.github.io/)
 
 <!--START_SECTION:blog-posts-->
 -   2022-09-13 [PHP & Swoole & Hyperf(公司内部分享)](https://zhuanlan.zhihu.com/p/563983666)
